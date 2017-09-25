@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"Hello",
+				"HelloTemplate"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"T",
+				"TemplateView"
+			],
+			[
+				"Home",
+				"HomeView"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"html",
+				"html_var"
+			],
+			[
+				"lo",
+				"login_box"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/test2/templates/hello.html",
+		"/var/www/test2/templates/hello_class.html",
+		"/var/www/records/login/__init__.py",
+		"/var/www/records/records/__init__.py",
+		"/var/www/records/records/settings/__init__.py",
+		"/var/www/records/templates/styles.css",
+		"/var/www/records/templates/login.html",
+		"/var/www/records/records/settings/base.py",
+		"/var/www/records/records/settings.py",
+		"/var/www/records/settings/base.py",
+		"/var/www/records/settings/__init__.py",
+		"/var/www/records/records/urls.py",
+		"/var/www/records/templates/faq.html",
+		"/var/www/records/settings/local.py",
+		"/var/www/records/settings/production.py",
+		"/var/www/muypicky/restaurants/views.py",
+		"/var/www/muypicky/restaurants/models.py",
+		"/var/www/muypicky/muypicky/settings/base.py",
+		"/var/www/muypicky/templates/snippets/nav.html",
+		"/var/www/muypicky/muypicky/urls.py",
+		"/var/www/muypicky/templates/contact.html",
+		"/var/www/muypicky/templates/snippets/sidebar.html",
+		"/var/www/muypicky/templates/snippets/js.html",
+		"/var/www/muypicky/templates/snippets/css.html",
+		"/var/www/muypicky/templates/base.html",
+		"/var/www/muypicky/templates/about.html",
+		"/var/www/muypicky/templates/home.html",
+		"/var/www/muypicky/login/views.py",
+		"/var/www/muypicky/templates/home3.html",
+		"/var/www/muypicky/templates/home2.html",
+		"/var/www/muypicky/templates/login.html",
+		"/var/www/muypicky/muypicky/settings/__init__.py",
+		"/var/www/muypicky/muypicky/settings/production.py",
+		"/var/www/muypicky/settings/__init__.py",
+		"/var/www/muypicky/muypicky/old_settings.py",
+		"/var/www/muypicky/settings/base.py",
+		"/var/www/muypicky/muypicky/settings/local.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"temp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "10.0.0.241.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
